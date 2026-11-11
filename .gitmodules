@@ -1,0 +1,9 @@
+[submodule "cfs"]
+	path = cfs
+	url = https://github.com/nasa/cFS.git
+[submodule "fprime"]
+	path = fprime
+	url = https://github.com/nasa/fprime.git
+[submodule "pi"]
+	path = pi
+	url = https://github.com/earendil-works/pi.git

@@ -1,0 +1,9 @@
+.DS_Store
+.obsidian/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+cfs-env/*.log
